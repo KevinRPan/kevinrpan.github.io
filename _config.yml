@@ -23,7 +23,7 @@ description: Data Science Enthusiast
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  About: "about"
   Blog: "blog"
   Projects: "projects"
 
