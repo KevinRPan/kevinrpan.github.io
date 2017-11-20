@@ -2,7 +2,10 @@
 layout: page
 title: Projects
 subtitle: A selection of projects I've worked on
-permalink: /projects.html
+bigimg:
+    - "img/build.png" : "BUILD"
+    - "img/logo-delta-white.png" : "Machine Learning"
+    - "img/logo-bernoulli.png" : "Bernoulli Health"
 ---
 
 ## BUILD 
@@ -13,11 +16,11 @@ For [BUILD](https://build.org/), the question to answer is [are we improving the
 
 ## Machine Learning Course
 ### Delta Analytics
-![Delta](logo-delta-white.png)
+![Delta](img/logo-delta-white.png)
 How can *you* use data for good? Helping to provide foundational theory and coding to translate data into actionable insights for everyone. See more at the [Delta Analytics Machine Learning for Good page](http://www.deltanalytics.org/curriculum.html).
 
 ## Bernoulli One
 ### Wharton Digital Health Club 
-![Bernoulli](logo-bernoulli.png)
+![Bernoulli](img/logo-bernoulli.png)
 Early detection of critical events saves lives. How can we detect these more accurately?
 See more at [BernoulliHealth.com](http://bernoullihealth.com/)
