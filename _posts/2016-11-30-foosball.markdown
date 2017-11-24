@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Foosball"
+date:   2016-11-30 23:00:00
+description: 
+permalink: foosball
+categories:
+- blog
+- fun
+---
+
+Best, and only, office sport: Foosball! 
+
+My very first game, I had a rude awakening of losing without scoring a point. 
+
+I decided I wanted to get better, and to do that, I wanted a way to measure.
+
+I created a score log of my personal games to rank myself compared to other players (my coworkers).
+
+How could I tell if I was getting better though? Comparing wins and losses were not equal across players. 
+
+I decided to apply the Elo ranking system used in chess and sports like soccer, football and basketball. 
+
+This analysis allows any players to add their scores in a Google Doc, and all singles games go into creating a ranking for any player with match data available.
+
+[Foosball Performance Analysis](http://kevinrpan.shinyapps.io/foos_analysis)
+
+
+

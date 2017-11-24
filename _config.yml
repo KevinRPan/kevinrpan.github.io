@@ -24,7 +24,7 @@ description: Data Science Enthusiast
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Blog: "blog"
+  Blog: "blog/"
   Projects: "projects"
 
 
@@ -138,6 +138,8 @@ kramdown:
   input: GFM
 
 paginate_path: "/blog/page:num/"
+
+paginate_path: "/blog/page:num"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:

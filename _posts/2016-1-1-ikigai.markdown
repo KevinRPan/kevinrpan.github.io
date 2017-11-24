@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "New Year, True Me"
+date:   2016-1-6 01:00:00
+description: A reason to get up in the morning
+permalink: ikigai
+categories:
+- blog
+- notes
+- self-discovery
+---
+
+With the new year arrived, it's the [ideal time][freshstart] to prioritize goals for the best 2016 possible! 
+
+For myself, instead of a list of goals, I have one. I most want to discover my reason for being - my [ikigai][ikigai-wiki]. ([Ikigai story][ikigai-story])
+
+![ikigai][ikigai-img] 
+
+Without knowing what we are truly hoping for, it seems that we may just be drifting purposelessly through life. 
+
+Knowing my purpose and source of satisfaction will guide me through becoming what I want to be. [As explained by Robert Greene][mastery], "If you allow yourself to learn who you really are by paying attention to that voice and force within you, then you can become what you were fated to become—an individual, a Master."
+
+What do you think your ikigai is? 
+
+A shoutout to my friends using a line I found: "Your friends are long term adventures, and therefore, perhaps the most significant thing you can do to add more years to your life and life to your years."
+
+
+[ikigai-wiki]: https://en.wikipedia.org/wiki/Ikigai
+
+[ikigai-story]: http://moreexplore.blogspot.com/2005/10/ikigai.html
+
+[ikigai-img]: https://upload.wikimedia.org/wikipedia/commons/e/eb/Ikigai-EN-optimized-PNG.png
+
+[freshstart]: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2204126
+
+[mastery]: http://www.visualreads.com/book/33211/mastery-robert-greene.cfm?posttype=popular
