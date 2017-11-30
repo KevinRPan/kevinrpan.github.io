@@ -2,12 +2,8 @@
 layout: post
 title:  "New Start"
 date:   2016-8-7 03:00:00
-description: 
-categories:
-- blog
-- notes
-- plans
-- ideas
+description: San Francisco Goals
+tags: [blog, notes, goals, ideas]
 ---
 
 Moved to San Francisco.

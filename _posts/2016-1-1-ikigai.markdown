@@ -4,10 +4,7 @@ title:  "New Year, True Me"
 date:   2016-1-6 01:00:00
 description: A reason to get up in the morning
 permalink: ikigai
-categories:
-- blog
-- notes
-- self-discovery
+tags: [blog, notes, self-discovery]
 ---
 
 With the new year arrived, it's the [ideal time][freshstart] to prioritize goals for the best 2016 possible! 

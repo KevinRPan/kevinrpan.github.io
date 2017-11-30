@@ -2,10 +2,7 @@
 layout: page
 title: Projects
 subtitle: A selection of projects I've worked on
-bigimg:
-    - "/img/build.png" : "BUILD"
-    - "/img/logo-delta-white.png" : "Machine Learning"
-    - "/img/logo-bernoulli.png" : "Bernoulli Health"
+page-col: "#5cacee"
 ---
 
 ## BUILD 

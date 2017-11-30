@@ -4,9 +4,7 @@ title:  "Foosball"
 date:   2016-11-30 23:00:00
 description: 
 permalink: foosball
-categories:
-- blog
-- fun
+tags: [projects, fun]
 ---
 
 Best, and only, office sport: Foosball! 
