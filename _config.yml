@@ -60,6 +60,7 @@ author:
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: KevinRPan  # eg. daattali
+  flickr: kevinpan
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
@@ -91,6 +92,7 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
+  flickr: true
 
 # Select which share links to show in posts
 share-links-active:
