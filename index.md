@@ -18,4 +18,4 @@ I am interested in and currently am working on:
 
 **Education:** As an undergraduate, I studied math, statistics, computer science and economics at the University of Pennsylvania. An example project I worked on is with [natural language processing](https://github.com/KevinRPan/Yummly).
 
-**Hobbies:** When offline, I enjoy travel, lifestyle photography, and snowboarding. I am a self-improvement addict and always trying to optimize.
+**Hobbies:** When offline, I enjoy travel, lifestyle photography, and snowboarding. I am always trying to optimize.
