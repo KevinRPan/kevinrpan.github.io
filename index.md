@@ -14,8 +14,8 @@ I am interested in and currently am working on:
 - Machine learning
 - Blockchain technology
 
-**Work:** I currently work as a Research Analyst at The Brattle Group in San Francisco. My day job involves preparing [analytically rigorous solutions that are thoughtfully developed and clearly communicated](http://brattle.com/), mostly using economic and statistical analysis in R to answer questions for litigation. 
+**Work:** I currently work as a Research Analyst at [The Brattle Group](http://brattle.com/) in San Francisco. My day job involves preparing rigorous economic and statistical analyses, often used for litigation. For previous jobs, see my [resume](/img/Resume_KP_2018_01_16.pdf) or [LinkedIn](https://www.linkedin.com/in/kevinrpan/). 
 
-**Education:** As an undergraduate, I studied math, statistics, computer science and economics at the University of Pennsylvania. An example project I worked on is with [natural language processing](https://github.com/KevinRPan/Yummly).
+**Education:** As an undergraduate, I studied math, statistics, computer science and economics at the University of Pennsylvania to understand how to create and interpret useful models for various phenomena. I enjoyed my time working in behavioral economics research under Katherine Milkman and Hengchen Dai in the Wharton School. 
 
-**Hobbies:** When offline, I enjoy travel, lifestyle photography, and snowboarding. I am always trying to optimize.
+**Hobbies:** When offline, I enjoy travel, [lifestyle photography](https://www.flickr.com/photos/kevinpan), sci-fi, and snowboarding. 
