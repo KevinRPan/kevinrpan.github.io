@@ -16,6 +16,6 @@ I am interested in and currently am working on:
 
 **Work:** I currently work as a Research Analyst at [The Brattle Group](http://brattle.com/) in San Francisco. My day job involves preparing rigorous economic and statistical analyses, often used for litigation. For previous jobs, see my [resume](/img/Resume_KP_2018_01_16.pdf) or [LinkedIn](https://www.linkedin.com/in/kevinrpan/). 
 
-**Education:** As an undergraduate, I studied math, statistics, computer science and economics at the University of Pennsylvania to understand how to create and interpret useful models for various phenomena. I enjoyed my time working in behavioral economics research under Katherine Milkman and Hengchen Dai in the Wharton School. 
+**Education:** As an undergraduate, I studied math, statistics, computer science and economics at the University of Pennsylvania to understand how to create and interpret useful models for various phenomena. I credit my interest in behavioral economics to my experience in research working for Katherine Milkman and Hengchen Dai in the Wharton School. 
 
-**Hobbies:** When offline, I enjoy travel, [lifestyle photography](https://www.flickr.com/photos/kevinpan), sci-fi, and snowboarding. 
+**Hobbies:** When offline, I enjoy travel, [lifestyle photography](https://www.flickr.com/photos/kevinpan), [sci-fi](https://www.goodreads.com/kpan), [future sounds](https://soundcloud.com/kpan), and snowboarding. I am also a serial optimizer. 
