@@ -18,4 +18,4 @@ I am interested in and currently am working on:
 
 **Education:** As an undergraduate, I studied math, statistics, computer science and economics at the University of Pennsylvania to understand how to create and interpret useful models for various phenomena. I credit my interest in behavioral economics to my experience in research working for Katherine Milkman and Hengchen Dai in the Wharton School. 
 
-**Hobbies:** When offline, I enjoy travel, [lifestyle photography](https://www.flickr.com/photos/kevinpan), [sci-fi and self-help](https://www.goodreads.com/kpan), [vaporwave and future R&B](https://soundcloud.com/kpan), and snowboarding. I am also a serial optimizer. 
+**Hobbies:** When offline, I enjoy travel, [lifestyle photography](https://www.flickr.com/photos/kevinpan), podcasts, [thought-provoking reads](https://www.goodreads.com/kpan), crosswords, [electronic R&B](https://soundcloud.com/kpan), and snowboarding. I am also a serial optimizer. 

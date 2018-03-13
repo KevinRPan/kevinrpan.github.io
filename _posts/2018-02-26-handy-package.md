@@ -6,7 +6,7 @@ gh-repo: kevinrpan/handy
 gh-badge: [star, fork, follow]
 ---
 
-Welcome to this post on data cleaning in R! This post will describe the process and useful functions to streamline the data cleaning process. 
+Welcome to this post on data cleaning in R! This post will describe the data exploration process and introduce useful functions to streamline common tasks. 
 
 ## Philosophy 
 
