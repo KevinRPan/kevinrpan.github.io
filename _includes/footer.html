@@ -25,7 +25,7 @@
             </a>
           </li>
           {% endif %}
-      {% if site.author.flickr and site.footer-links-active.flickr %}
+          {% if site.author.flickr and site.footer-links-active.flickr %}
           <li>
             <a href="https://flickr.com/{{ site.author.flickr }}" title="Flickr">
               <span class="fa-stack fa-lg" aria-hidden="true">
@@ -33,17 +33,6 @@
                 <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
               </span>
               <span class="sr-only">Flickr</span>
-            </a>
-          </li>
-          {% endif %}
-      {% if site.author.kaggle and site.footer-links-active.kaggle %}
-          <li>
-            <a href="https://kaggle.com/{{ site.author.kaggle }}" title="Kaggle">
-              <span class="fa-stack fa-lg" aria-hidden="true">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-kaggle fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">Kaggle</span>
             </a>
           </li>
           {% endif %}
