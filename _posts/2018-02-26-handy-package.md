@@ -4,6 +4,7 @@ title: Handy Functions for Data Cleaning
 subtitle: Shortcuts for everyday data tidying
 gh-repo: kevinrpan/handy
 gh-badge: [star, fork, follow]
+tags: [r-package, data-analysis]
 ---
 
 Welcome to this post on data cleaning in R! This post will describe the data exploration process and introduce useful functions to streamline common tasks. 
