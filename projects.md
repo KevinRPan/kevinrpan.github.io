@@ -1,42 +1,32 @@
 ---
 layout: page
 title: Projects
-subtitle: A selection of projects I've worked on
+subtitle: & Code
 page-col: "#5cacee"
 ---
 
-This is a summary page for some side projects I've been working on.
+This is a summary page for some side projects I've been working on. See [consulting projects here](/consulting).
 
-## Development
-I am excited to be currently helping develop a data science/machine learning course for underserved communities, such as non-profit or other social good learners. 
 
+## Machine Learning Course
+### [Delta Analytics](http://www.deltanalytics.org/)
 ![Delta](img/logo_delta.png)
-### Machine Learning Course
-#### [Delta Analytics](http://www.deltanalytics.org/)
 
-How can *you* use data for good? Helping to provide foundational theory and coding to translate data into actionable insights for everyone. See more at the [Delta Analytics Machine Learning for Good page](http://www.deltanalytics.org/curriculum.html).
+I am excited to be developing a data science/machine learning course with foundational theory and coding examples to help non-profit or other social good learners translate their data into actionable insights. 
 
-## Consulting
-Some organizations I've consulted for are BUILD and Bernoulli. 
+See more at the [Delta Analytics Machine Learning for Good page](http://www.deltanalytics.org/curriculum.html).
 
-![Build](img/logo_build.png)
-### BUILD 
-#### [Delta Analytics](http://www.deltanalytics.org/)
+## Handy 
+### [R package](/2018-02-26-handy-package/)
 
-For [BUILD](https://build.org/), the question to answer is are we improving the academic and professional outcomes of our students? 
+This package helps to handle common data tasks. Make importing and summarizing data a breeze. 
 
-See more about this project in the [Delta blog](https://blog.deltanalytics.org/asking-the-right-data-questions-a14cb37dc177).
+## Foosball 
+### [Shiny App](/2016-11-30-foosball/)
 
-![Bernoulli](img/logo_bernoulli.png)
-### Bernoulli One
-#### [Wharton Digital Health Club](https://groups.wharton.upenn.edu/wdhc/about/)
+This analyzes foosball performance of players across Brattle offices.
 
-*Early detection of critical events saves lives.* Yet throwing too many alarms leads to [alarm fatigue](https://www.ncbi.nlm.nih.gov/pubmed/24153215) for doctors and nurses, which can result desensitization to alarms and missed alarms. 
+##  NCAA predictions
+### [Kaggle Analysis](https://www.kaggle.com/kevinpan/march-madness-elo-rankings)
 
-So, given patient data streams for key indicators, how can we better understand the interaction of health indicators to detect critical events more accurately? 
-
-This is where I stepped in with data mining techiniques (time-series, PCA, decision trees, auto-correlations, cross-correlations) to identify which indicators were useful predictors of the factory standard health index, and which were triggers for the majority of alerts. 
-
-Our presentation to the executive team also described the levels of reduction in alert/critical alarms by decreasing the default indicator thresholds to varying degrees.
-
-See more about Bernoulli at [BernoulliHealth.com](http://bernoullihealth.com/)
+This is an analysis on NCAA games to guess March Madness winners based on historical performance. 
