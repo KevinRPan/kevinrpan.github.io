@@ -11,7 +11,7 @@ facebook:
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
 
-facebook:
+flickr:
   name: "Flickr"
   baseURL: "https://www.flickr.com/"
   icon: "fa-flickr"
