@@ -5,7 +5,6 @@ subtitle:
 page-col: "#5cacee"
 ---
 
-## Consulting
 Some organizations I've consulted for (outside of my work with Brattle) are BUILD and Bernoulli. 
 
 ![Build](img/logo_build.png)

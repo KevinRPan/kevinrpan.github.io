@@ -21,6 +21,11 @@ See more at the [Delta Analytics Machine Learning for Good page](http://www.delt
 
 This package helps to handle common data tasks. Make importing and summarizing data a breeze. 
 
+## Crypto Market Trends
+### [Shiny App](https://kevinrpan.shinyapps.io/coin-market-trends/)
+
+Daily, hourly, and weekly quick look at top cryptocurrency trends.
+
 ## Foosball 
 ### [Shiny App](/2016-11-30-foosball/)
 
