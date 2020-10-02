@@ -12,9 +12,8 @@ I am interested in and currently am working on:
 - Data visualization
 - Statistics
 - Machine learning
-- Blockchain technology
 
-**Work:** I currently work as a Research Analyst at [The Brattle Group](http://brattle.com/) in San Francisco. My day job involves preparing rigorous economic and statistical analyses, often used for litigation. For previous jobs, see my [resume](/img/kevin_pan_resume.pdf) or [LinkedIn](https://www.linkedin.com/in/kevinrpan/). 
+**Work:** I currently work as a Data Scientist at Lyft, leading experimentation, segmentation, and data strategy for the Integrity team (focused on bringing down fraudulent behavior on the platform). For previous jobs, see my [resume](/img/kevin_pan_resume.pdf) or [LinkedIn](https://www.linkedin.com/in/kevinrpan/). 
 
 **Education:** As an undergraduate, I studied math, statistics, computer science and economics at the University of Pennsylvania to understand how to create and interpret useful models for various phenomena. I credit my interest in behavioral economics to my experience in research working for Katherine Milkman and Hengchen Dai in the Wharton School. 
 
