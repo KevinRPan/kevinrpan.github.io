@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://kevinrpan.com"
+url: "http://tvisiravi.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Kevin Pan
+title: TvisiRavi
 
 # Short description of your site
-description: Data Science Enthusiast
+description: Data Analyst, on a mission to create a more equitable world
 
 # --- Navigation bar options --- #
 
@@ -26,11 +26,11 @@ navbar-links:
   About: ""
   Blog: "blog"
   Projects: "projects"
-  Resume: 'kevin_pan_resume.pdf'
+  # Resume: 'kevin_pan_resume.pdf'
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/kevin_800.jpg"
+# avatar: "/img/kevin_800.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Kevin Pan
+  name: Tvisi Ravi
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -71,12 +71,12 @@ author:
 
 social-network-links:
   rss: false
-  email: "hello@kevinrpan.com"
-  github: KevinRPan    # eg. daattali
-  linkedin: KevinRPan  # eg. daattali
-  flickr: kevinpan
+  email: "tvisi.ravi@gmail.com"
+  github: tvisig    # eg. daattali
+  linkedin: tvisi-ravi  # eg. daattali
+  # flickr: kevinpan
   #facebook:   # eg. daattali
-  #twitter: yourname   # eg. daattali
+  twitter: RaviTvisi   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +DeanAttali
   #xing: yourname      # eg. daattali
@@ -100,12 +100,13 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kevinrpan.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "tvisiravi.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-67532459-1"
+# google_analytics: "UA-67532459-1"
+# instructions here https://support.google.com/analytics/answer/1008080?hl=en
 
 # Google Tag Manager ID
 #gtm: ""
@@ -186,6 +187,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - keys
 
 # prose.io config
 prose:
