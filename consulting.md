@@ -1,30 +1,40 @@
 ---
 layout: page
 title: Consulting
-subtitle: 
+subtitle:
 page-col: "#5cacee"
 ---
 
-Some organizations I've consulted for (outside of my work with Brattle) are BUILD and Bernoulli. 
+I've provided data science consulting services for BUILD and Bernoulli, among others.
 
 ![Build](img/logo_build.png)
-### BUILD 
+
+### BUILD
+
 #### [Delta Analytics](http://www.deltanalytics.org/)
 
-For [BUILD](https://build.org/), the question to answer is are we improving the academic and professional outcomes of our students? 
+I love helping set up a data strategy, starting with the big question an organization is trying to answer.
+
+Working with [BUILD](https://build.org/), I helped pinpoint their 'North Star metric', putting a spotlight on how their program helps students graduate high school and stay in college, not just the number of programs they're running.
+
+By digging into the data and keeping the key questions in mind, I was glad to highlight the impact BUILD was making and provide an automated report that connected directly with their data sources.
 
 See more about this project in the [Delta blog](https://blog.deltanalytics.org/asking-the-right-data-questions-a14cb37dc177).
 
 ![Bernoulli](img/logo_bernoulli.png)
+
 ### Bernoulli One
+
 #### [Wharton Digital Health Club](https://groups.wharton.upenn.edu/wdhc/about/)
 
-*Early detection of critical events saves lives.* Yet throwing too many alarms leads to [alarm fatigue](https://www.ncbi.nlm.nih.gov/pubmed/24153215) for doctors and nurses, which can result desensitization to alarms and missed alarms. 
+_Early detection of critical events saves lives._ Yet throwing too many alarms leads to [alarm fatigue](https://www.ncbi.nlm.nih.gov/pubmed/24153215) for doctors and nurses, which can result desensitization to alarms and missed alarms.
 
-So, given patient data streams for key indicators, how can we better understand the interaction of health indicators to detect critical events more accurately? 
+So, given hundreds of hours worth of continuous patient data streams for key indicators, how can we better understand the interaction of health indicators to detect critical events more accurately?
 
-This is where I stepped in with data mining techiniques (time-series, PCA, decision trees, auto-correlations, cross-correlations) to identify which indicators were useful predictors of the factory standard health index, and which were triggers for the majority of alerts. 
+Here I applied data mining techiniques (time-series, PCA, decision trees, auto-correlations, cross-correlations) to identify which indicators were useful predictors of the factory standard health index, and which were triggers for the majority of alerts.
 
-Our presentation to the executive team also described the levels of reduction in alert/critical alarms by decreasing the default indicator thresholds to varying degrees.
+The result was very promising - I was able to reliably detect severe health events _12 seconds_ (two time units) ahead of the industry standard pulmonary index (IPI) maintaining the same level of accuracy.
+
+Our team them applied this knowledge to define the trade-off of false alarms and true health alerts with this custom indicator vs other standards, and we earned a highly positive review Bernoulli executive team.
 
 See more about Bernoulli at [BernoulliHealth.com](http://bernoullihealth.com/)
