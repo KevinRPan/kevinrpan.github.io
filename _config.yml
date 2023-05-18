@@ -76,7 +76,7 @@ social-network-links:
   linkedin: KevinRPan  # eg. daattali
   flickr: kevinpan
   #facebook:   # eg. daattali
-  #twitter: yourname   # eg. daattali
+  twitter: kevinrpan   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +DeanAttali
   #xing: yourname      # eg. daattali
@@ -93,7 +93,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: true
   facebook: false
   google: false
   linkedin: true
