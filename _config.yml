@@ -24,7 +24,7 @@ description: Building What's Next
 # List of links in the navigation bar
 navbar-links:
   About: ""
-  Blog: "blog"
+  # Blog: "blog"
   Projects: "projects"
   Consulting: "consulting"
   Resume: 'kevin_pan_resume.pdf'
@@ -78,6 +78,7 @@ social-network-links:
   flickr: kevinpan
   #facebook:   # eg. daattali
   twitter: kevinrpan   # eg. daattali
+  medium: kevinrpan
   #reddit: yourname    # eg. daattali
   #google-plus: +DeanAttali
   #xing: yourname      # eg. daattali
