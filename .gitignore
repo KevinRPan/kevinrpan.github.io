@@ -9,3 +9,5 @@ _drafts/
 Thumbs.db
 ehthumbs.db
 _archive/
+.bundle/
+bin/

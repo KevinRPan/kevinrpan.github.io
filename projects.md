@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: & Code
+subtitle: "& Code"
 page-col: "#5cacee"
 ---
 
