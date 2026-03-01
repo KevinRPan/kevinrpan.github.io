@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://kevinrpan.com"
+url: "https://kevinrpan.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -24,7 +24,7 @@ description: Building What's Next
 # List of links in the navigation bar
 navbar-links:
   About: ""
-  # Blog: "blog"
+  Blog: "blog"
   Projects: "projects"
   Consulting: "consulting"
   Resume: 'kevin_pan_resume.pdf'
@@ -72,12 +72,11 @@ author:
 
 social-network-links:
   rss: false
-  email: "hello@kevinrpan.com"
-  github: KevinRPan    # eg. daattali
-  linkedin: KevinRPan  # eg. daattali
-  flickr: kevinpan
-  #facebook:   # eg. daattali
-  twitter: kevinrpan   # eg. daattali
+  email: "hello@kpan.dev"
+  github: KevinRPan
+  linkedin: KevinRPan
+  #flickr: kevinpan
+  #twitter: kevinrpan
   medium: kevinrpan
   #reddit: yourname    # eg. daattali
   #google-plus: +DeanAttali
@@ -107,7 +106,7 @@ url-pretty: "kevinrpan.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-67532459-1"
+# google_analytics: "UA-67532459-1"  # TODO: Replace with GA4 measurement ID (G-XXXXXXXXXX)
 
 # Google Tag Manager ID
 #gtm: ""
@@ -156,8 +155,6 @@ kramdown:
   input: GFM
 
 paginate_path: "/blog/page:num/"
-
-paginate_path: "/blog/page:num"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:

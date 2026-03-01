@@ -5,46 +5,26 @@ subtitle: "& Code"
 page-col: "#5cacee"
 ---
 
-This is a summary page for some side projects I've worked on. See [consulting projects here](/consulting).
+A mix of things I've built -- from AI products to data tools and analyses.
 
-## Machine Learning Course
+## Current
 
-### [Delta Analytics](http://www.deltanalytics.org/)
+### askdata.app
 
-![Delta](img/logo_delta.png)
+[askdata.app](https://askdata.app) -- Explore your data through natural language. An LLM-powered interface for asking questions of structured datasets.
 
-I am proud to have contributed to an open data science/machine learning course with foundational theory and coding examples to help non-profit or other social good learners translate their data into actionable insights.
+## Open Source
 
-This course is available on [Github](https://github.com/DeltaAnalytics/machine_learning_for_good).
+### Machine Learning for Good
 
-See more at the [Delta Analytics Machine Learning for Good page](http://www.deltanalytics.org/curriculum.html).
+Contributed to [Delta Analytics'](http://www.deltanalytics.org/) open source ML course helping non-profit learners translate data into actionable insights. Course on [GitHub](https://github.com/DeltaAnalytics/machine_learning_for_good).
 
-## Handy
+### Handy R Package
 
-### [R package](/2018-02-26-handy-package/)
+An [R package](/2018-02-26-handy-package/) for common data cleaning and exploration tasks -- name cleaning, variable summaries, human-readable plot scales, and Excel output.
 
-This package helps to handle common data tasks. Make importing and summarizing data a breeze.
+## Past Explorations
 
-## Crypto Market Trends
-
-### [Shiny App](https://kevinrpan.shinyapps.io/coin-market-trends/)
-
-Daily, hourly, and weekly quick look at top cryptocurrency trends.
-
-## Foosball
-
-### [Shiny App](/2016-11-30-foosball/)
-
-This analyzes foosball performance of players across Brattle offices.
-
-## NCAA predictions
-
-### [Kaggle Analysis](https://www.kaggle.com/kevinpan/march-madness-elo-rankings)
-
-This is an analysis on NCAA games to guess March Madness winners based on historical performance.
-
-## Kiva Loan Analysis
-
-### [Kiva Loan Analysis](/kiva)
-
-A data visualization to understand the underlying details for Kiva microloans. Highlight is the interactive map.
+- [NCAA March Madness Elo Rankings](https://www.kaggle.com/kevinpan/march-madness-elo-rankings) -- Kaggle analysis predicting tournament outcomes from historical performance
+- [Foosball Elo Analysis](/2016-11-30-foosball/) -- Rating system for office foosball, built as a Shiny app
+- [Kiva Loan Analysis](/kiva) -- Interactive visualization of microloan data
