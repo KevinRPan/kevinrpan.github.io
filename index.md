@@ -5,18 +5,19 @@ subtitle: Data Scientist. Builder.
 use-site-title: true
 ---
 
-Welcome. I'm Kevin Pan, an experienced data scientist who has made the transition into technical innovation and intrapreneurship.
+Welcome. I'm Kevin Pan -- a data scientist turned builder.
 
-- In my current role at Strivr, I am building applications with Large Language Models (LLMs) to write custom content based on our company's data. Outside of Strivr, I've also built custom apps to explore data through natural language [askdata.app](https://askdata.app).
+I build AI-powered products, from LLM applications to data tools that help people get answers faster. Currently I'm focused on building with Large Language Models, including [askdata.app](https://askdata.app) for exploring data through natural language.
 
-- My background has been in both more traditional data science, as well as product driven data science, economic consulting, and some algorithm development at a hedge fund.
+### Background
 
-- On Lyft's Integrity team I led experimentation, data modeling and migration (including GDPR), loss forecasting and segmentation, and weekly team syncs to mitigate fraudulent activities. I learned a lot but wanted to get a more holistic view of the business, so I moved to the Delivery team, which was more of a start-up within Lyft.
+My career path has been: data science &rarr; product &rarr; building. Along the way:
 
-- On the Delivery team, I found ways to both grow volume and improve our quality through diving into data and partnerships. It was exciting but also challenging to build a new product that both used existing infrastructure but also needed new elements, in a space with well-funded competitors. I learned a great deal about focusing on users, and understanding the Why of what we were building.
+- **LLM Applications** -- Building custom content generation and data exploration tools with large language models
+- **Product Data Science at Lyft** -- Led experimentation and data modeling on the Integrity and Delivery teams, where I learned to focus on users and understand the _why_ behind what we build
+- **Data Science Consulting** -- Helped organizations like BUILD define their North Star metrics and connect data to impact
+- **Open Source** -- Contributed to [Delta Analytics' ML for Good](https://github.com/DeltaAnalytics/machine_learning_for_good) curriculum and built R packages for data cleaning
 
-- Capitalizing on my passion for coding and problem-solving, I gradually transitioned from data science into a more development-oriented role. I found that I enjoyed talking directly to users to build the product that they need.
+### Let's talk
 
-- I now focus on the development and scaling of new products within my organization. By leveraging my expertise in data analysis and software development, I love helping unlock value for people and organizations.
-
-If you're also looking to build new products within your organization or outside of it, please reach out at [hello@kpan.dev](mailto:hello@kpan.dev). I'd love to chat.
+If you're building new products -- especially at the intersection of data and AI -- I'd love to chat. Reach out at [hello@kpan.dev](mailto:hello@kpan.dev).
