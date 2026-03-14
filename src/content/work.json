@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"duration": "2023 - present",
+		"company": "Independent",
+		"title": "AI Product Builder",
+		"description": "Building LLM-powered products including askdata.app for exploring data through natural language."
+	},
+	{
+		"id": 2,
+		"duration": "2018 - 2023",
+		"company": "Lyft",
+		"title": "Product Data Scientist",
+		"description": "Led experimentation and data modeling on Integrity and Delivery teams, focusing on user outcomes and understanding the why behind what we build."
+	},
+	{
+		"id": 3,
+		"duration": "2016 - 2018",
+		"company": "Delta Analytics / BUILD",
+		"title": "Data Science Consultant",
+		"description": "Helped organizations define North Star metrics, connect data to impact, and contributed to open source ML curriculum."
+	}
+]

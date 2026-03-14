@@ -1,13 +1,9 @@
-# project
-_site
-.sass-cache
-.vagrant
-_drafts/
+# astro
+node_modules/
+dist/
+.astro/
+.env
 
 # general
 .DS_Store
 Thumbs.db
-ehthumbs.db
-_archive/
-.bundle/
-bin/

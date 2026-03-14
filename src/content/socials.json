@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"icon": {
+			"type": "lucide",
+			"name": "github"
+		},
+		"text": "GitHub",
+		"link": "https://github.com/KevinRPan"
+	},
+	{
+		"id": 2,
+		"icon": {
+			"type": "lucide",
+			"name": "linkedin"
+		},
+		"text": "LinkedIn",
+		"link": "https://www.linkedin.com/in/KevinRPan"
+	},
+	{
+		"id": 3,
+		"icon": {
+			"type": "lucide",
+			"name": "mail"
+		},
+		"text": "hello@kpan.dev",
+		"link": "mailto:hello@kpan.dev"
+	},
+	{
+		"id": 4,
+		"icon": {
+			"type": "lucide",
+			"name": "file-text"
+		},
+		"text": "Resume",
+		"link": "https://kevinrpan.com/kevin_pan_resume.pdf"
+	}
+]
