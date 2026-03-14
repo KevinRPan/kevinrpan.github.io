@@ -29,10 +29,10 @@
 	{
 		"id": 4,
 		"icon": {
-			"type": "lucide",
-			"name": "file-text"
+			"type": "simple-icons",
+			"name": "medium"
 		},
-		"text": "Resume",
-		"link": "https://kevinrpan.com/kevin_pan_resume.pdf"
+		"text": "Medium",
+		"link": "https://medium.com/@kevinrpan"
 	}
 ]

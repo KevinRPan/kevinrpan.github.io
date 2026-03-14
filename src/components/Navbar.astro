@@ -84,6 +84,8 @@ const path = Astro.url.pathname;
         pagefindInitialized = true;
       } catch (error) {
         console.error('Failed to initialize Pagefind:', error);
+        results.innerHTML = '<p style="margin-top: 0;">Search unavailable. Run <code>npm run build</code> first.</p>';
+        results.classList.add('active');
       }
     }
   });
