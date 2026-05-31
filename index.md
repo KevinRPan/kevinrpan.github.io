@@ -1,23 +1,25 @@
 ---
 layout: page
 title: Kevin Pan
-subtitle: Data Scientist. Builder.
+subtitle: Data scientist. Building AI products.
 use-site-title: true
 ---
 
-Welcome. I'm Kevin Pan -- a data scientist turned builder.
+I help small teams turn data and probabilistic models into products people use.
 
-I build AI-powered products, from LLM applications to data tools that help people get answers faster. Currently I'm focused on building with Large Language Models, including [askdata.app](https://askdata.app) for exploring data through natural language.
+I'm currently building [askdata.app](https://askdata.app) -- an LLM-powered interface for exploring structured data in plain English. Before that: product data science at Lyft, and consulting work helping organizations find the metrics that actually matter.
 
-### Background
+### Things I've done
 
-My career path has been: data science &rarr; product &rarr; building. Along the way:
+- **Detected severe patient events 12 seconds earlier than the industry standard, at the same accuracy.** Time-series work on continuous patient monitoring data for [Bernoulli One](/consulting) -- enough lead time to change clinical action and reduce alarm fatigue.
+- **Shifted a national nonprofit's North Star from "programs delivered" to student outcomes.** Worked with [BUILD](https://blog.deltanalytics.org/asking-the-right-data-questions-a14cb37dc177) via Delta Analytics, and built the automated reporting that supported the shift.
+- **Ran experimentation and data modeling on Lyft Integrity and Delivery** -- where I learned to focus on users and the *why* behind what we build.
+- **Shipping with LLMs** -- evaluation, prompt patterns, and the long gap between demo and product. Building [askdata.app](/askdata) now.
 
-- **LLM Applications** -- Building custom content generation and data exploration tools with large language models
-- **Product Data Science at Lyft** -- Led experimentation and data modeling on the Integrity and Delivery teams, where I learned to focus on users and understand the _why_ behind what we build
-- **Data Science Consulting** -- Helped organizations like BUILD define their North Star metrics and connect data to impact
-- **Open Source** -- Contributed to [Delta Analytics' ML for Good](https://github.com/DeltaAnalytics/machine_learning_for_good) curriculum and built R packages for data cleaning
+### The arc
+
+Data science &rarr; product &rarr; building. I'm most useful at the seam: the first hire who can do the first data work, ship the first product, and tell you whether it actually moved the metric.
 
 ### Let's talk
 
-If you're building new products -- especially at the intersection of data and AI -- I'd love to chat. Reach out at [hello@kpan.dev](mailto:hello@kpan.dev).
+If you're early-stage and building with AI, I'd love to talk. [hello@kpan.dev](mailto:hello@kpan.dev).

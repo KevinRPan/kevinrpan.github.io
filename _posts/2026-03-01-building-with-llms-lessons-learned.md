@@ -3,6 +3,7 @@ layout: post
 title: "Building with LLMs: Lessons from the Trenches"
 subtitle: What I've learned shipping AI products as a data scientist
 tags: [llm, building, data-science, ai]
+published: false
 ---
 
 _This is a draft starter post -- fill in with your real experiences and ship it!_
