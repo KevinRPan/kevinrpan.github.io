@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 subtitle: "Things I'm building and have built"
-page-col: "#5cacee"
 ---
 
 ## Current

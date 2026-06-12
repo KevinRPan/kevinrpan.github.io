@@ -2,7 +2,6 @@
 layout: page
 title: askdata.app
 subtitle: An LLM-powered interface for structured data
-page-col: "#5cacee"
 ---
 
 > Status: working prototype. Live at [askdata.app](https://askdata.app).

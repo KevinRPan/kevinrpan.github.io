@@ -2,7 +2,6 @@
 layout: page
 title: Kevin Pan
 subtitle: Data scientist. Building AI products.
-use-site-title: true
 ---
 
 I help teams turn data and probabilistic models into products and decisions people trust.
