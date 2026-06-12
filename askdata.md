@@ -31,10 +31,6 @@ Three things, in roughly increasing difficulty:
 
 **3. Evaluation.** The unsolved part of every LLM product. With askdata I have a partial answer: because the output is a SQL query, I can run it and compare results deterministically against a labeled set. That's a lot more tractable than evaluating free-form text -- and it's the main reason I think this surface area is the right one to build on first.
 
-## What I'm working on now
-
-<!-- TODO (Kevin): fill in with what you're actually focused on right now -- e.g., which warehouse connectors, the eval harness, schema-grounding approach, current user feedback loop. Keep it to 2-4 sentences and concrete. -->
-
 ## Why I'm building this
 
 I spent years at Lyft watching smart product people queue up for SQL help they shouldn't have needed. In consulting, I watched organizations buy data infrastructure they couldn't use because no one on staff could write a query.
@@ -43,4 +39,4 @@ The interface to data is broken. LLMs are the first technology I've seen that co
 
 ---
 
-Building this as a solo prototype while I look for founding-DS roles at AI startups. If your team is solving adjacent problems, [I'd love to talk](mailto:hello@kpan.dev).
+Building this as a solo side project alongside my day job on WhatsApp Growth at Meta. If your team is solving adjacent problems, [I'd love to talk](mailto:hello@kpan.dev).

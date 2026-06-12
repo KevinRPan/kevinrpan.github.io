@@ -5,21 +5,26 @@ subtitle: Data scientist. Building AI products.
 use-site-title: true
 ---
 
-I help small teams turn data and probabilistic models into products people use.
+I help teams turn data and probabilistic models into products and decisions people trust.
 
-I'm currently building [askdata.app](https://askdata.app) -- an LLM-powered interface for exploring structured data in plain English. Before that: product data science at Lyft, and consulting work helping organizations find the metrics that actually matter.
+I'm currently a Senior Data Scientist at **Meta**, working on **WhatsApp Growth** -- growth strategy, experimentation at billion-user scale, and the identity model behind how WhatsApp counts its users. Before that: AI product development at Strivr, product data science at Lyft, and consulting work helping organizations find the metrics that actually matter.
+
+On the side, I build [askdata.app](https://askdata.app) -- an LLM-powered interface for exploring structured data in plain English.
 
 ### Things I've done
 
-- **Detected severe patient events 12 seconds earlier than the industry standard, at the same accuracy.** Time-series work on continuous patient monitoring data for [Bernoulli One](/consulting) -- enough lead time to change clinical action and reduce alarm fatigue.
-- **Shifted a national nonprofit's North Star from "programs delivered" to student outcomes.** Worked with [BUILD](https://blog.deltanalytics.org/asking-the-right-data-questions-a14cb37dc177) via Delta Analytics, and built the automated reporting that supported the shift.
-- **Ran experimentation and data modeling on Lyft Integrity and Delivery** -- where I learned to focus on users and the *why* behind what we build.
+- **Drove WhatsApp's growth/integrity strategy for a $400M+ registration budget.** Delivered 6% of the company growth goal at roughly 1/100 the cost of other levers -- outperforming higher-budget pillars and enabling WhatsApp's first year-over-year budget reduction.
+- **Scaled cross-app account linking to 300M+ accounts in six months.** Led analytics for WhatsApp account linking with Facebook and Instagram across 5+ product and engineering teams, shipping 10 major cross-app features -- 53% over target.
+- **Designed WhatsApp's new identity model**, now the canonical way the company accounts for registering users -- preserving privacy while staying consistent for returning registrations.
+- **Made experimentation faster for 30+ engineers.** Built AI-augmented experiment review templates with pre-pulled metrics and automated regression breakdowns, then extended those standards to other data scientists and AI analytics agents through trainings.
+- **Reduced Lyft's steady-state failed-charge losses by 62%** -- $24M+ in combined annual savings from an ML fraud classifier with active-learning sampling, rollout experiments, and policy tests. Promoted twice in three years.
+- **Detected severe patient events 12 seconds earlier than the industry standard, at the same accuracy.** Time-series work on continuous patient monitoring data for [Bernoulli One](/consulting).
 - **Shipping with LLMs** -- evaluation, prompt patterns, and the long gap between demo and product. Building [askdata.app](/askdata) now.
 
 ### The arc
 
-Data science &rarr; product &rarr; building. I'm most useful at the seam: the first hire who can do the first data work, ship the first product, and tell you whether it actually moved the metric.
+Data science &rarr; product &rarr; building. I'm most useful at the seam: framing the right problem, doing the analysis that settles it, and shipping the thing that moves the metric.
 
 ### Let's talk
 
-If you're early-stage and building with AI, I'd love to talk. [hello@kpan.dev](mailto:hello@kpan.dev).
+If you're building with data or AI and want to compare notes, I'd love to talk. [hello@kpan.dev](mailto:hello@kpan.dev).
