@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 subtitle: "Things I'm building and have built"
-page-col: "#5cacee"
 ---
 
 ## Current
@@ -20,6 +19,9 @@ Built a custom physiological indicator that detected severe events **12 seconds 
 
 ### BUILD &mdash; North Star for a national nonprofit
 Helped a national youth-serving nonprofit shift their North Star from program count to student outcomes, then built the automated reporting connecting it to their data sources. [Write-up](https://blog.deltanalytics.org/asking-the-right-data-questions-a14cb37dc177).
+
+### Unstructured &mdash; open-source document parsing for LLM workflows
+Contributed table and XML parsing for DOCX and Google Docs formats to [Unstructured](https://github.com/Unstructured-IO/unstructured), an open-source document preprocessing library used in LLM pipelines.
 
 ### Machine Learning for Good &mdash; open-source ML curriculum
 Contributed to [Delta Analytics'](http://www.deltanalytics.org/) open-source ML course for nonprofit data practitioners. [GitHub](https://github.com/DeltaAnalytics/machine_learning_for_good).

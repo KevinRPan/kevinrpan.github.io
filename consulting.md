@@ -2,10 +2,9 @@
 layout: page
 title: Consulting
 subtitle:
-page-col: "#5cacee"
 ---
 
-I help organizations build data and AI products -- from defining what to measure to shipping working software. If you're interested in working together, reach out at [hello@kpan.dev](mailto:hello@kpan.dev).
+I help organizations build data and AI products -- from defining what to measure to shipping working software. I'm currently available for new engagements: [hello@kpan.dev](mailto:hello@kpan.dev).
 
 ### What I can help with
 
