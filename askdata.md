@@ -39,4 +39,4 @@ The interface to data is broken. LLMs are the first technology I've seen that co
 
 ---
 
-Building this as a solo side project alongside my day job on WhatsApp Growth at Meta. If your team is solving adjacent problems, [I'd love to talk](mailto:hello@kpan.dev).
+Building this independently, alongside [consulting](/consulting) work. If your team is solving adjacent problems, [I'd love to talk](mailto:hello@kpan.dev).

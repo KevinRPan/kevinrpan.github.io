@@ -5,7 +5,7 @@ subtitle: What I've learned shipping AI products as a data scientist
 tags: [llm, building, data-science, ai]
 ---
 
-After years in data science, I've spent the last few years building products powered by Large Language Models -- first as the AI owner at a VR training startup, then on my own with [askdata.app](https://askdata.app), and now applying the same patterns to experimentation tooling at Meta. Here's what has held up.
+After years in data science, I've spent the last few years building products powered by Large Language Models -- first as the AI owner at a VR training startup, then on my own with [askdata.app](https://askdata.app), then scaling AI-assisted experimentation tooling on WhatsApp Growth at Meta. Here's what has held up.
 
 ## The gap between demo and product is enormous
 

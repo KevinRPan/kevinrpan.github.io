@@ -7,9 +7,7 @@ use-site-title: true
 
 I help teams turn data and probabilistic models into products and decisions people trust.
 
-I'm currently a Senior Data Scientist at **Meta**, working on **WhatsApp Growth** -- growth strategy, experimentation at billion-user scale, and the identity model behind how WhatsApp counts its users. Before that: AI product development at Strivr, product data science at Lyft, and consulting work helping organizations find the metrics that actually matter.
-
-On the side, I build [askdata.app](https://askdata.app) -- an LLM-powered interface for exploring structured data in plain English.
+Most recently I was a Senior Data Scientist at **Meta**, leading growth analytics for **WhatsApp** -- growth strategy, experimentation at billion-user scale, and the identity model behind how WhatsApp counts its users. As of mid-2026 I'm independent: building [askdata.app](https://askdata.app) and taking on select [consulting](/consulting) engagements. Before Meta: AI product development at Strivr, product data science at Lyft, and consulting work helping organizations find the metrics that actually matter.
 
 ### Things I've done
 
@@ -27,4 +25,4 @@ Data science &rarr; product &rarr; building. I'm most useful at the seam: framin
 
 ### Let's talk
 
-If you're building with data or AI and want to compare notes, I'd love to talk. [hello@kpan.dev](mailto:hello@kpan.dev).
+If you're building with data or AI, I'd love to talk -- I'm currently taking on consulting engagements. [hello@kpan.dev](mailto:hello@kpan.dev).
